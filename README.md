@@ -4,20 +4,20 @@ Los materiales serán publicados en las siguientes semanas, más cerca del comie
 
 ## Resumen del curso
 
-Este taller responde a la pregunta de qué es la inteligencia ar�ficial y qué u�lidad
-�ene para la bioquímica. Algunas de las preguntas que vamos a responder son cómo
+Este taller responde a la pregunta de qué es la inteligencia artificial y qué utilidad
+tiene para la bioquímica. Algunas de las preguntas que vamos a responder son cómo
 ha aprendido ChatGPT a hablar inglés (o español) y cómo se pueden crear ChatGPTs
 que hablen el lenguaje de las moléculas ayudándonos a generar nuevos fármacos.
 No nos quedaremos en lenguaje, sino que también cubriremos cómo estas
-inteligencias ar�ficiales pueden ayudarnos a entender las interacciones entre
-fármacos y sus dianas. Por úl�mo, exploraremos IAs que nos ayudan a entender de
+inteligencias artificiales pueden ayudarnos a entender las interacciones entre
+fármacos y sus dianas. Por último, exploraremos IAs que nos ayudan a entender de
 qué manera la forma en la que las proteínas se mueven afecta a su farmacología.
 El taller proporciona una experiencia completa tanto para principiantes como para
-alumnos avanzados, permi�endo a los asistentes experimentar con aplicaciones
-prác�cas de ML en la inves�gación biomolecular.
+alumnos avanzados, permitiendo a los asistentes experimentar con aplicaciones
+prác�cas de ML en la investigación biomolecular.
 
 **Sesión 0 – Modelos que aprenden: Introducción a ML
-** 1 h 30 min prác�ca + 30 min QA
+** 1 h 30 min práctica + 30 min QA
 - Presentación de los ponentes
 - Introducción a ML como regresión avanzada
 - Introducción a redes neuronales: Tensorflow Playground
