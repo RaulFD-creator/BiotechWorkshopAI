@@ -1,2 +1,48 @@
-# TrainingCourses
-Repository with materials from Training Courses
+#  Materiales del curso "Modelos que aprenden bioquímica"
+
+Los materiales serán publicados en las siguientes semanas, más cerca del comienzo del curso.
+
+## Resumen del curso
+
+Este taller responde a la pregunta de qué es la inteligencia ar�ficial y qué u�lidad
+�ene para la bioquímica. Algunas de las preguntas que vamos a responder son cómo
+ha aprendido ChatGPT a hablar inglés (o español) y cómo se pueden crear ChatGPTs
+que hablen el lenguaje de las moléculas ayudándonos a generar nuevos fármacos.
+No nos quedaremos en lenguaje, sino que también cubriremos cómo estas
+inteligencias ar�ficiales pueden ayudarnos a entender las interacciones entre
+fármacos y sus dianas. Por úl�mo, exploraremos IAs que nos ayudan a entender de
+qué manera la forma en la que las proteínas se mueven afecta a su farmacología.
+El taller proporciona una experiencia completa tanto para principiantes como para
+alumnos avanzados, permi�endo a los asistentes experimentar con aplicaciones
+prác�cas de ML en la inves�gación biomolecular.
+
+**Sesión 0 – Modelos que aprenden: Introducción a ML
+** 1 h 30 min prác�ca + 30 min QA
+- Presentación de los ponentes
+- Introducción a ML como regresión avanzada
+- Introducción a redes neuronales: Tensorflow Playground
+- Mini sesión práctica: Google Collaboratory - First steps
+- Tensorflow Playground
+
+**Sesión 1 – Modelos que aprenden el lenguaje de las moléculas
+** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+- Modelos que aprenden inglés/español: ChatGPT LLM Ba�leground
+- Modelos que aprenden el lenguaje de las moléculas (proteínas, moléculas pequeñas...)
+- Aplicaciones de estos modelos
+- Sesión práctica: predicción de toxicidad de moléculas pequeñas
+- ChatGPT LLM Battleground
+
+**Sesión 2 – Modelos que aprenden farmacología
+** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+- Cómo se une un fármaco a una proteína
+- Cómo sabemos si una molécula puede unirse a una proteína: Docking
+- Modelos que aprenden a colocar fármacos en la proteína: Diffdock
+- Práctica: Virtual screening de una proteína
+
+
+**Sesión 3 – Modelos que aprenden cómo se mueven las moléculas)
+** 1 h + 15 min break/QA + 2 h práctica
+- Cómo se mueve una molécula en el tiempo (Molecular dynamics): Breve introducción
+teórica
+- Práctica: Plegamiento de péptidos en vacío
+- Práctica: Molecular dynamics en Drug Discovery: Análisis caso práctico
