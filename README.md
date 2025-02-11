@@ -16,32 +16,26 @@ El taller proporciona una experiencia completa tanto para principiantes como par
 alumnos avanzados, permitiendo a los asistentes experimentar con aplicaciones
 prácticas de ML en la investigación biomolecular.
 
-**Sesión 0 – Modelos que aprenden: Introducción a ML
-** 1 h 30 min práctica + 30 min QA
+**Sesión 0 – Modelos que aprenden: Introducción a ML** 1 h 30 min práctica + 30 min QA
 - Presentación de los ponentes
 - Introducción a ML como regresión avanzada
 - Introducción a redes neuronales: Tensorflow Playground
 - Mini sesión práctica: Google Collaboratory - First steps
-- Tensorflow Playground
 
-**Sesión 1 – Modelos que aprenden el lenguaje de las moléculas
-** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
-- Modelos que aprenden inglés/español: ChatGPT LLM Ba�leground
+**Sesión 1 – Modelos que aprenden el lenguaje de las moléculas** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+- Modelos que aprenden inglés/español: ChatGPT LLM Battleground
 - Modelos que aprenden el lenguaje de las moléculas (proteínas, moléculas pequeñas...)
 - Aplicaciones de estos modelos
 - Sesión práctica: predicción de toxicidad de moléculas pequeñas
-- ChatGPT LLM Battleground
 
-**Sesión 2 – Modelos que aprenden farmacología
-** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+**Sesión 2 – Modelos que aprenden farmacología** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
 - Cómo se une un fármaco a una proteína
 - Cómo sabemos si una molécula puede unirse a una proteína: Docking
 - Modelos que aprenden a colocar fármacos en la proteína: Diffdock
 - Práctica: Virtual screening de una proteína
 
 
-**Sesión 3 – Modelos que aprenden cómo se mueven las moléculas)
-** 1 h + 15 min break/QA + 2 h práctica
+**Sesión 3 – Modelos que aprenden cómo se mueven las moléculas)** 1 h + 15 min break/QA + 2 h práctica
 - Cómo se mueve una molécula en el tiempo (Molecular dynamics): Breve introducción
 teórica
 - Práctica: Plegamiento de péptidos en vacío
