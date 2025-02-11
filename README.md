@@ -14,7 +14,7 @@ fármacos y sus dianas. Por último, exploraremos IAs que nos ayudan a entender 
 qué manera la forma en la que las proteínas se mueven afecta a su farmacología.
 El taller proporciona una experiencia completa tanto para principiantes como para
 alumnos avanzados, permitiendo a los asistentes experimentar con aplicaciones
-prác�cas de ML en la investigación biomolecular.
+prácticas de ML en la investigación biomolecular.
 
 **Sesión 0 – Modelos que aprenden: Introducción a ML
 ** 1 h 30 min práctica + 30 min QA
