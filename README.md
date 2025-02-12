@@ -22,13 +22,13 @@ prácticas de ML en la investigación biomolecular.
 - Introducción a redes neuronales: Tensorflow Playground
 - Mini sesión práctica: Google Collaboratory - First steps
 
-**Sesión 1 – Modelos que aprenden el lenguaje de las moléculas** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+**Sesión 1 – Modelos que aprenden el lenguaje de las moléculas** 1 h 15 min + 15 min break/QA + 1 h 30 min práctica
 - Modelos que aprenden inglés/español: ChatGPT LLM Battleground
 - Modelos que aprenden el lenguaje de las moléculas (proteínas, moléculas pequeñas...)
 - Aplicaciones de estos modelos
 - Sesión práctica: predicción de toxicidad de moléculas pequeñas
 
-**Sesión 2 – Modelos que aprenden farmacología** 1 h 15 min + 15 min break/QA + 1 h 30 min prác�ca
+**Sesión 2 – Modelos que aprenden farmacología** 1 h 15 min + 15 min break/QA + 1 h 30 min práctica
 - Cómo se une un fármaco a una proteína
 - Cómo sabemos si una molécula puede unirse a una proteína: Docking
 - Modelos que aprenden a colocar fármacos en la proteína: Diffdock
