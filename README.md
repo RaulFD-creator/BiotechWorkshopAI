@@ -20,7 +20,7 @@ prácticas de ML en la investigación biomolecular.
 - Presentación de los ponentes
 - Introducción a ML como regresión avanzada
 - Introducción a redes neuronales: Tensorflow Playground
-- <a target="_blank" href="https://colab.research.google.com/github/RaulFD-creator/BiotechWorkshopAI/Sesion1.ipynb">
+- <a target="_blank" href="https://colab.research.google.com/github/RaulFD-creator/blob/main/BiotechWorkshopAI/Sesion1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> Mini sesión práctica: Google Collaboratory - First steps 
 
 
