@@ -34,8 +34,8 @@ prácticas de ML en la investigación biomolecular.
 - Cómo se une un fármaco a una proteína
 - Cómo sabemos si una molécula puede unirse a una proteína: Docking
 - Modelos que aprenden a colocar fármacos en la proteína: Diffdock
-- - <a target="_blank" href="https://colab.research.google.com/github/RaulFD-creator/BiotechWorkshopAI/blob/main/Dia_2_Docking.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>Práctica: Virtual screening de una proteína
+- <a target="_blank" href="https://colab.research.google.com/github/RaulFD-creator/BiotechWorkshopAI/blob/main/Dia_2_Docking.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> Práctica: Virtual screening de una proteína
 
 
 **Sesión 3 – Modelos que aprenden cómo se mueven las moléculas)** 1 h + 15 min break/QA + 2 h práctica
