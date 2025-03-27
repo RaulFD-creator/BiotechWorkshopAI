@@ -41,5 +41,6 @@ prácticas de ML en la investigación biomolecular.
 **Sesión 3 – Modelos que aprenden cómo se mueven las moléculas)** 1 h + 15 min break/QA + 2 h práctica
 - Cómo se mueve una molécula en el tiempo (Molecular dynamics): Breve introducción
 teórica
-- Práctica: Plegamiento de péptidos en vacío
+- <a target="_blank" href="https://colab.research.google.com/github/RaulFD-creator/BiotechWorkshopAI/blob/main/MD.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> Práctica: Plegamiento de péptidos en vacío
 - Práctica: Molecular dynamics en Drug Discovery: Análisis caso práctico
